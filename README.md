@@ -130,10 +130,14 @@ Tools
 
 ### Incident Management
 
-- [PagerTree](https://pagertree.com/)
-- [OpsGenie](https://www.opsgenie.com/)
-- [VictorOps](https://victorops.com/)
-- [PagerDuty](https://www.pagerduty.com/)
+|- [PagerTree](https://pagertree.com/)
+|- [OpsGenie](https://www.opsgenie.com/)
+|- [VictorOps](https://victorops.com/)
+|- [PagerDuty](https://www.pagerduty.com/)
+
+### AI SRE
+
+|- [Sherlocks.ai](https://www.sherlocks.ai) - AI-powered reliability platform for proactive incident detection and resolution
 
 Misc
 ----
